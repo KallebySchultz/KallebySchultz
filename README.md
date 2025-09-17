@@ -1,6 +1,6 @@
 <h2 align="center">
   Hello World!!<br>
-  Sou um profissional de TI voltado para a área de gestão em TI, mas brinco um pouco com programação também ;)<br><br>
+  Sou um profissional voltado para a área de gestão em TI, mas brinco um pouco com programação também ;)<br><br>
   Acesse meu portfólio completo em: <a href="https://kallebyschultz.com.br" target="_blank">kallebyschultz.com.br</a>
 </h2>
 
