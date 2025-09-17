@@ -18,7 +18,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KallebySchultz/KallebySchultz/output/dist/snake.svg?palette=github-dark" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/KallebySchultz/KallebySchultz/output/snake.svg?palette=github-dark" alt="Snake animation" />
 </div>
 
 ###
