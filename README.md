@@ -8,13 +8,11 @@
   <img height="200" src="https://media.tenor.com/STBXSVflTdcAAAAi/rem-rotating-the-finger.gif" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KallebySchultz/KallebySchultz/output/snake.svg?palette=github-dark" alt="Snake animation" />
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
